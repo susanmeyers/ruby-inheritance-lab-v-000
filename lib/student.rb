@@ -6,8 +6,12 @@ class Student < User
   
   def learn
     binding.pry
-    @knowledge << knowledge
-    @knowledge
+
+    
+    
+  end
+  
+  def knowledge
     
   end
     
