@@ -4,7 +4,8 @@ class Student < User
     @knowledge = []
   end
   
-  def learn()
+  def learn("Ruby framework Rails gem bundle update")
+    
   
 
 
