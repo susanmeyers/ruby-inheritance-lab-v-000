@@ -12,6 +12,8 @@ class Student < User
   end
   
   def knowledge
+    student.knowledge.all.select do |javascript|
+      binding.pry
     
     
   end
