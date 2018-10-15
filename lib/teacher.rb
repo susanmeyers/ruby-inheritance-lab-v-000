@@ -4,19 +4,21 @@ class Teacher < User
   
   def teach
    random_KNOWLEDGE = KNOWLEDGE.sample
+  end
 
 # use Array#sample:
 
 # @countries = ["Canada", "Denmark", "Germany", "Isle of Man", "Namibia", "Qatar", "South Africa",  "United Kingdom","United States"]
-
 # random_country = @countries.sample
 # # => "Canada"
 
-# random_country = @countries.sample
-# # => "United Kingdom"
-# shareimprove this answer
+
+
+
+
+
     
-  end
+  
 
   
 end
