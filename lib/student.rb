@@ -13,7 +13,7 @@ class Student < User
   
   def knowledge
     #binding.pry
-    self.all.select do |javascript|
+    self.select do |javascript|
      
     end
     
