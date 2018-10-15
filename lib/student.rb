@@ -9,11 +9,6 @@ class Student < User
 
   def learn(knowledge)
     binding.pry
-    
-    
-
-    
-    
   end
   
   def knowledge
