@@ -6,7 +6,7 @@ class Student < User
   
   def learn
     binding.pry
-    @knowledge << student("Ruby framework Rails gem bundle update")
+    @knowledge << student
     
   end
     
