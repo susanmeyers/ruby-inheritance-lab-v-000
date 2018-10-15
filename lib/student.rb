@@ -5,6 +5,7 @@ class Student < User
   end
   
   def learn
+    binding.pry
     student("Ruby framework Rails gem bundle update")
     binding.pry
   end
