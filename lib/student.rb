@@ -15,7 +15,7 @@ class Student < User
     #binding.pry
     @knowledge
      
-    end
+    
     
     
   end
