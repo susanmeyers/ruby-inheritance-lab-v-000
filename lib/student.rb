@@ -6,6 +6,8 @@ class Student < User
   
   def learn("Ruby framework Rails gem bundle update")
     
+  end
+    
   
 
 
