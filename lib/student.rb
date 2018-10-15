@@ -4,8 +4,8 @@ class Student < User
     @knowledge = []
   end
   
-  def learn("")
-    binding.pry
+  def learn
+    #binding.pry
   end
 
 end
